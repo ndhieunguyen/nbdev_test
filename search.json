@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_test",
+    "section": "",
+    "text": "from nbdev_test import core\nThis file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "card–A basic playing card",
+    "section": "",
+    "text": "We will be using nummbers to represent playing card clubs and ranks. There are the suits\nFor instance, the suit at index 0:\nThere are the ranks\nFor instance, the rank at index 1 (note that there is not a playing card at position 0, since we want the ranks to match the indices where possible):\nsource"
+  },
+  {
+    "objectID": "card.html#comparison-operator",
+    "href": "card.html#comparison-operator",
+    "title": "card–A basic playing card",
+    "section": "Comparison operator",
+    "text": "Comparison operator"
+  },
+  {
+    "objectID": "01_deck.html",
+    "href": "01_deck.html",
+    "title": "nbdev_test",
+    "section": "",
+    "text": "source\n\nDeck\n\n Deck ()\n\nInitialize self. See help(type(self)) for accurate signature.\n\nDeck()\n\nAspade;2spade;3spade;4spade;5spade;6spade;7spade;8spade;9spade;10spade;Jspade;Qspade;Kspade;A clover;2 clover;3 clover;4 clover;5 clover;6 clover;7 clover;8 clover;9 clover;10 clover;J clover;Q clover;K clover;A diamond;2 diamond;3 diamond;4 diamond;5 diamond;6 diamond;7 diamond;8 diamond;9 diamond;10 diamond;J diamond;Q diamond;K diamond;A heart;2 heart;3 heart;4 heart;5 heart;6 heart;7 heart;8 heart;9 heart;10 heart;J heart;Q heart;K heart"
+  }
+]
